@@ -493,16 +493,19 @@ li:hover {
 .text-n {
   text-align: center;
   h1 {
-    font-size: 25.06px;
+    font-size: 36px;
     color: #4d4d4d;
     font-weight: 600;
     margin-top: 20px;
   }
   p {
-    font-size: 9.74px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 13.5px;
     color: #717171;
     font-weight: 400;
     margin-top: 20px;
+    width: 700px;
   }
 }
 
@@ -513,31 +516,38 @@ li:hover {
 .parent-n{
   position: relative;
   width: 300px;
-  margin: 50px 60px;
+  margin-top: 50px;
+  margin-left: 42.5px;
+  margin-right: 42.5px;
 }
 
 .parent-n img{
   width: 100%;
 }
 
+.img-n{
+  width: 350px;
+}
+
 .child-n{
   position: absolute;
   background-color: #F5F7FA;
   border-radius: 5.57px;
-  top: 155px;
+  top: 185px;
+  left: 4.5px;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   margin-left: 39px;
   margin-right: 50px;
-  width: 220.65px;
+  width: 265px;
   text-align: center  ;
   .desc-n{
-    font-size: 13.92px;
+    font-size: 16px;
     font-weight: 600;
     color: #717171;
     margin: 10px 12.5px;
   }
   .s-n{
-    font-size: 13.92px;
+    font-size: 16px;
     font-weight: 600;
     margin: 20px 40px;
   }
@@ -562,19 +572,21 @@ li:hover {
     background-color: #faa613;
     border: none;
     color: white;
-    font-size: 11.14px;
-    padding: 12.5px 25px;
+    font-size: 13.5px;
+    padding: 15px 25px;
     border-radius: 2.78px;
     margin-top: 20px;
   }
 }
 
 .est-f h1{
-  
-  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: centeautor;
   color: #F44708;
   font-weight: 600;
-  font-size: xx-large;
+  font-size: 44px;
+  width: 600px;
 }
 
 #footer {
