@@ -1,4 +1,4 @@
 # redesign-abudzar
  Pondok Tahfizh Plus Abudzar - Santri Production
 
-lending.pages = 
+lending.pages = https://muhisya.github.io/redesign-abudzar/
